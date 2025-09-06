@@ -1,6 +1,6 @@
 # face-recognition
 
-git clone https://github.com/sardor9/face-recognition
+[git clone https://github.com/sardor9/face-recognition](https://github.com/sardor9/face-recognition.git)
 
 cd face-recognition
 
