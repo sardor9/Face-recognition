@@ -9,6 +9,8 @@
    git clone https://github.com/sardor9/face-recognition.git
    cd face-recognition```
    
+
+
    Создай и активируй виртуальное окружение:
 ```python -m venv venv
 venv\Scripts\activate```
