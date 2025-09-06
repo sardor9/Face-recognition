@@ -2,8 +2,8 @@
 
 ## 🚀 Setup
 
-1. Открой **Command Prompt** или PowerShell  
-2. Клонируй репозиторий:
+   Открой **Command Prompt** или PowerShell  
+   Клонируй репозиторий:
 
    ```
    git clone https://github.com/sardor9/face-recognition.git
