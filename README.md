@@ -18,11 +18,13 @@ Clone this repository
     ```
     pip install -r requirements.txt
     ```
-# 5. Update pip and install OpenCV + NumPy
+Update pip and install OpenCV + NumPy
+
 python -m pip install --upgrade pip
 python -m pip install opencv-python numpy
 
-# 6. Check the installation
+Check the installation
+
 python -c "import cv2; print(cv2.__version__)"
 
 ## Usage:
