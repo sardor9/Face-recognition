@@ -5,7 +5,6 @@
 2. Clone this repository
     ```
     git clone https://github.com/sardor9/face-recognition.git
-        
 3. Install Dependencies
     ```
     cd face-recognition
