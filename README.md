@@ -23,9 +23,8 @@
 ## Usage:
 To use it, define your desired parameters in main.py and run through the command line:
 
-    ```
     python main.py
-    ```
+
 
 This program will install an updated webdriver automatically. There is no need to install your own.
 
