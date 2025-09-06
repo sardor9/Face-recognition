@@ -1,11 +1,11 @@
 # Face-recognition
 
 ## Setup:
-1. Open the command prompt
-2. Clone this repository
+Open the command prompt
+Clone this repository
     ```
     git clone https://github.com/sardor9/face-recognition.git
-3. Install Dependencies
+    Install Dependencies
     ```
     cd face-recognition
     ```
@@ -18,6 +18,13 @@
     ```
     pip install -r requirements.txt
     ```
+# 5. Update pip and install OpenCV + NumPy
+python -m pip install --upgrade pip
+python -m pip install opencv-python numpy
+
+# 6. Check the installation
+python -c "import cv2; print(cv2.__version__)"
+
 ## Usage:
 To use it, define your desired parameters in main.py and run through the command line:
 
